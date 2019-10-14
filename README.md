@@ -1,2 +1,2 @@
 # BlueLight
-code exercise
+Pyton Übungscode
